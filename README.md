@@ -35,14 +35,14 @@ I'm a Computer Engineering student passionate about **Software Development**, **
 ### 📊 GitHub & LeetCode Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TureAta&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TureAta&layout=compact&theme=radical" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ata Ture&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ata Ture&layout=compact&theme=radical" height="180" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=TureAta&theme=dark" width="400" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-six.vercel.app/?username=Ata Ture&theme=dark" width="400" alt="LeetCode Stats" />
 </div>
 
 ---
