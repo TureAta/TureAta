@@ -1,53 +1,136 @@
-# Hi there, I'm TureAta! 👋
+<!-- =========================
+     TUR E ATA | PROFILE README
+     ========================= -->
 
-I'm a Computer Engineering student passionate about **Software Development**, **Backend Systems**, and **Algorithms**. I love building efficient tools and solving complex problems with code.
+<div align="center">
 
-- 🌱 I’m currently working on a **Campus Navigation System** with my team.
-- 💻 I enjoy exploring **original ideas**.
-- 📚 I’m currently learning **Docker** and **Advanced Software Architecture Patterns**.
+# Hi there, I'm **TureAta** 👋  
+### Computer Engineering Student • Backend • Algorithms • Systems
+
+<p>
+  <a href="https://www.linkedin.com/in/ata-ture-6695ab2a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:atature54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=TureAta&style=for-the-badge&color=brightgreen" />
+</p>
+
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+## ✨ About Me
+
+- 🎓 Computer Engineering student focused on **Backend Systems** and **Software Architecture**
+- 🧠 I love **algorithms, clean code, performance**, and building practical tools
+- 🌱 Currently learning: **Docker**, **Advanced Architecture Patterns**, **Spring Security**
+- 🧩 I enjoy exploring **original ideas** and turning them into working projects
+- 🤝 Open to: **internships**, **collaborations**, and **open-source contributions**
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</p>
+
+### ⚙️ Frameworks & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **News Article Search Engine** | A high-performance search engine built to index and query large-scale news datasets. Optimized for fast data parsing and accurate information retrieval. | `Java` `Data Structures` `File I/O` |
-| **Course Management System** | A command-line application developed to manage course listings and student enrollments efficiently using structured data logic without a GUI. | `Java` `CLI` `OOP` |
-| **E-Signature Platform** | *(Internship Project)* A web platform allowing users to upload, manage, and securely sign documents using PKI and Timestamp Authority integrations. | `Spring Boot` `REST API` `Spring Security` |
-| **Campus Nav System** | *In Progress* - A navigation application designed for university campus guidance. | `Mobile/Web` `Backend` |
+> Aşağıdaki linkleri projelerin repo linkleriyle değiştirebilirsin.
+
+### 🔎 News Article Search Engine
+- High-performance search engine to index and query large-scale news datasets  
+- Focus: fast parsing, optimized indexing, accurate retrieval  
+**Stack:** `Java` `Data Structures` `File I/O`  
+🔗 Repo: https://github.com/TureAta/REPO_ADI
+
+### 🎓 Course Management System (CLI)
+- CLI application to manage courses and enrollments  
+- Focus: OOP design, structured logic, clean architecture  
+**Stack:** `Java` `CLI` `OOP`  
+🔗 Repo: https://github.com/TureAta/REPO_ADI
+
+### 🖊️ E-Signature Platform (Internship)
+- Secure signing platform with **PKI** + **Timestamp Authority** integrations  
+- Focus: security, authentication, RESTful services  
+**Stack:** `Spring Boot` `REST API` `Spring Security`  
+🔗 Repo: (private olabilir)
+
+### 🧭 Campus Navigation System (In Progress)
+- Navigation app for university campus guidance  
+- Focus: scalable backend, map logic, user flows  
+**Stack:** `Mobile/Web` `Backend`  
+🔗 Repo: https://github.com/TureAta/REPO_ADI
 
 ---
 
-### 📊 GitHub & LeetCode Stats
+## 📌 What I’m Working On
+
+- 🧭 **Campus Navigation System** with my team  
+- 🔐 Improving skills in **Security**, **Auth**, **Architecture**  
+- 🐳 Using Docker to create reproducible development environments  
+
+---
+
+## 📊 GitHub Stats (Çalışmıyorsa Alternatifli!)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TureAta&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TureAta&layout=compact&theme=radical" height="180" alt="Top Languages" />
+
+<!-- ✅ 1) GitHub Readme Stats (asıl) -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TureAta&show_icons=true&theme=radical&cache_seconds=7200" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TureAta&layout=compact&theme=radical&cache_seconds=7200" />
+
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=TureAta&theme=dark" width="400" alt="LeetCode Stats" />
+
+<!-- ✅ 2) Streak Stats (çoğu kişide daha stabil) -->
+<img height="180" src="https://streak-stats.demolab.com?user=TureAta&theme=radical&hide_border=true" />
+
 </div>
 
 ---
 
-### 📫 Let's Connect
+## 🧠 Problem Solving
+
+<div align="center">
+
+<!-- LeetCode (bazen patlıyor; yedekli verdim) -->
+<img width="420" src="https://leetcode.card.workers.dev/TureAta?theme=dark&font=baloo&extension=null" />
+
+</div>
+
+---
+
+## 🗺️ Roadmap (2026)
+
+- ✅ Docker + Containerization  
+- ✅ Spring Security + JWT  
+- 🔜 Microservices basics & messaging (Kafka/RabbitMQ)  
+- 🔜 System Design practice  
+- 🔜 More open-source contributions  
+
+---
+
+## 🤝 Let’s Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ata-ture-6695ab2a8/" target="_blank">
@@ -57,3 +140,12 @@ I'm a Computer Engineering student passionate about **Software Development**, **
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+---
+
+
+<div align="center">
+
+**⭐ If you like my work, consider starring some repositories!**
+
+</div>
