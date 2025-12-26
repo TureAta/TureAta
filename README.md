@@ -123,7 +123,6 @@
 
 - ✅ Docker + Containerization  
 - ✅ Spring Security + JWT  
-- 🔜 Microservices basics & messaging (Kafka/RabbitMQ)  
 - 🔜 System Design practice  
 - 🔜 More open-source contributions  
 
