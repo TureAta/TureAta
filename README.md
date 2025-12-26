@@ -90,24 +90,6 @@
 
 ---
 
-## 📊 GitHub Stats 
-
-<div align="center">
-
-<!-- ✅ 1) GitHub Readme Stats (asıl) -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TureAta&show_icons=true&theme=radical&cache_seconds=7200&v=1" />
-
-</div>
-
-<div align="center">
-
-<!-- ✅ 2) Streak Stats  -->
-<img height="180" src="https://streak-stats.demolab.com?user=TureAta&theme=radical&hide_border=true" />
-
-</div>
-
----
-
 ## 🗺️ Roadmap (2026)
 
 - ✅ Docker + Containerization  
