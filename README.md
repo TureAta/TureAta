@@ -60,25 +60,25 @@
 - High-performance search engine to index and query large-scale news datasets  
 - Focus: fast parsing, optimized indexing, accurate retrieval  
 **Stack:** `Java` `Data Structures` `File I/O`  
-🔗 Repo: https://github.com/TureAta/REPO_ADI
+🔗 Repo: https://github.com/TureAta/News_Article_Search_Engine
 
 ### 🎓 Course Management System (CLI)
 - CLI application to manage courses and enrollments  
 - Focus: OOP design, structured logic, clean architecture  
 **Stack:** `Java` `CLI` `OOP`  
-🔗 Repo: https://github.com/TureAta/REPO_ADI
+🔗 Repo: https://github.com/TureAta/Course_Management_System_in_Therminal
 
 ### 🖊️ E-Signature Platform (Internship)
 - Secure signing platform with **PKI** + **Timestamp Authority** integrations  
 - Focus: security, authentication, RESTful services  
 **Stack:** `Spring Boot` `REST API` `Spring Security`  
-🔗 Repo: (private olabilir)
+🔗 Repo: for now private
 
 ### 🧭 Campus Navigation System (In Progress)
 - Navigation app for university campus guidance  
 - Focus: scalable backend, map logic, user flows  
 **Stack:** `Mobile/Web` `Backend`  
-🔗 Repo: https://github.com/TureAta/REPO_ADI
+🔗 Repo: in progress so its private.
 
 ---
 
@@ -90,7 +90,7 @@
 
 ---
 
-## 📊 GitHub Stats (Çalışmıyorsa Alternatifli!)
+## 📊 GitHub Stats 
 
 <div align="center">
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<!-- ✅ 2) Streak Stats (çoğu kişide daha stabil) -->
+<!-- ✅ 2) Streak Stats  -->
 <img height="180" src="https://streak-stats.demolab.com?user=TureAta&theme=radical&hide_border=true" />
 
 </div>
@@ -113,7 +113,6 @@
 
 <div align="center">
 
-<!-- LeetCode (bazen patlıyor; yedekli verdim) -->
 <img width="420" src="https://leetcode.card.workers.dev/TureAta?theme=dark&font=baloo&extension=null" />
 
 </div>
