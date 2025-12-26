@@ -95,8 +95,7 @@
 <div align="center">
 
 <!-- ✅ 1) GitHub Readme Stats (asıl) -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TureAta&show_icons=true&theme=radical&cache_seconds=7200" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TureAta&layout=compact&theme=radical&cache_seconds=7200" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TureAta&show_icons=true&theme=radical&cache_seconds=7200&v=1" />
 
 </div>
 
@@ -104,16 +103,6 @@
 
 <!-- ✅ 2) Streak Stats  -->
 <img height="180" src="https://streak-stats.demolab.com?user=TureAta&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-## 🧠 Problem Solving
-
-<div align="center">
-
-<img width="420" src="https://leetcode.card.workers.dev/TureAta?theme=dark&font=baloo&extension=null" />
 
 </div>
 
