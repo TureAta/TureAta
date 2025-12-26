@@ -54,8 +54,6 @@
 
 ## 🚀 Featured Projects
 
-> Aşağıdaki linkleri projelerin repo linkleriyle değiştirebilirsin.
-
 ### 🔎 News Article Search Engine
 - High-performance search engine to index and query large-scale news datasets  
 - Focus: fast parsing, optimized indexing, accurate retrieval  
