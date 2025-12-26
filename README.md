@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi there, I'm **TureAta** 👋  
+# Hi there, I'm **Ata** 👋  
 ### Computer Engineering Student • Backend • Algorithms • Systems
 
 <p>
