@@ -70,7 +70,7 @@
 - Secure signing platform with **PKI** + **Timestamp Authority** integrations  
 - Focus: security, authentication, RESTful services  
 **Stack:** `Spring Boot` `REST API` `Spring Security`  
-🔗 Repo: for now private
+🔗 Repo: https://github.com/TureAta/E_Signature_System
 
 ### 🧭 Campus Navigation System (In Progress)
 - Navigation app for university campus guidance  
